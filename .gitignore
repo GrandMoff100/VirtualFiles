@@ -1,0 +1,14 @@
+haapi/
+venv
+.idea
+venv/
+*.py[cod]
+
+build/
+dist/
+*.egg-info
+
+.replit
+pyproject.toml
+poetry.lock
+*.repo
